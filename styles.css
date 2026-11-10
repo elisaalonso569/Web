@@ -34,7 +34,7 @@ footer {
 }
 
 .etiqueta {
-  color: var(--accent);
+  color: var(--line);
   font-family: Quicksand, Regular;
   font-size: 0.78rem;
   font-weight: 700;
